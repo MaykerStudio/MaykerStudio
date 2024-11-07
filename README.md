@@ -36,7 +36,7 @@
 <br>
   <br>
   
-[![Mayke's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MaykerStudio&theme=tokyonight&count_private=true)](https://git.io/praveenscience)
+[![Mayke's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MaykerStudio&theme=tokyonight&count_private=true)](https://git.io/praveenscience)
 
 | ![Mayke's github stats](https://github-readme-stats-git-master-mayke-rodrigues-projects.vercel.app/api?username=MaykerStudio&show_icons=true&theme=tokyonight&count_private=true) | ![Mayke GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MaykerStudio&theme=tokyonight&count_private=true) |
 | --- | --- |
